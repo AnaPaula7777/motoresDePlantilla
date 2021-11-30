@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Vela Roja",
+    "price": "14.75",
+    "thumbnail": "http://localhost:8080/images/1638260063449red_candle.jpg",
+    "id": 1
+  },
+  {
+    "title": "Vela Azul",
+    "price": "11.50",
+    "thumbnail": "http://localhost:8080/images/1638260185357blue_candle.jpg",
+    "id": 2
+  }
+]
